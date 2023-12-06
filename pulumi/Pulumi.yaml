@@ -1,0 +1,6 @@
+name: buckets
+runtime:
+  name: nodejs
+  options:
+    typescript: false
+description: Playing with s3 bucket using Pulumi JavaScript

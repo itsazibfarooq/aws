@@ -1,4 +1,6 @@
+pulumi/node_modules
 Archive.zip
 /.terraform
 .terraform*
 terraform.*
+pulumi/package*
